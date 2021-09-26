@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Im Leonard and in this blog i review apps and other tech stuff as well as try video games
 
 You can use the [editor on GitHub](https://github.com/LeonardXJD/leonardxjd.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
@@ -23,7 +23,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+[Follow me on github](https://github.com/leonardXJD) and ![Image](https://cdn.icon-icons.com/icons2/936/PNG/512/github-logo_icon-icons.com_73546.png)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
